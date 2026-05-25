@@ -1,5 +1,5 @@
-# 🧬 PRIMEGEN
-PRIMEGEN is a Python-based primer design tool that identifies optimal primer pairs from multi-isoform FASTA sequences for **qPCR** or **RACE** applications. It operates in two distinct modes:
+# 🧬 PRIMEYX
+PRIMEYX is a Python-based primer design tool that identifies optimal primer pairs from multi-isoform FASTA sequences for **qPCR** or **RACE** applications. It operates in two distinct modes:
 
 * **Specificity Mode**: Identifies primer pairs that are unique to a single target isoform, ensuring minimal cross-reactivity. The final output for this mode includes a detailed analysis of primer quality, including GC content, melting temperature (Tm), and predicted secondary structures (hairpins, self-dimers, and cross-dimers) to assess biological viability.
 
